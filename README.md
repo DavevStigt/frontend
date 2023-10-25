@@ -160,8 +160,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 </details>
 
-
-
+ <img src="images/test1.png">
+ <img src="images/test2.png">
+  <img src="images/test3.png">
+ <img src="images/test4.png">
+ <img src="images/test5.png">
+ <img src="images/test6.png">
+  <img src="images/test7.png">
+ <img src="images/test8.png">
+ <img src="images/test.9">
+ <img src="images/test10.png">
 
 
 ## Voortgang 3 (week 4)
