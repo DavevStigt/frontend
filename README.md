@@ -215,6 +215,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ik moest er dus voor kiezen om om de zoveel pixels mediaqueries te gebruiken, en hier al mijn <p> en <h2> en <h3> elementen te verplaatsen. Dit kosste ook veel tijd en css-regels.
 
   <img src="images/readme4.png" width="375px" alt="bummer">
+
+### Herkansing:
+Mijn werk was helaas niet voldoende, dus ik kreeg een herkansing. Ik kreeg de opdracht om mijn readme bestand bij te werken, en screenshots van de toegankelijkheidstest er in te verwerken. Ook moest ik mijn headings aanpassen, en te zorgen dat ik niet meer de foutmelding krijg dat eensection een heading moet bevatten. Verder moest ik een een section toevoegen en die helemaal responsive maken. Als laatste moest ik links toevoegen, zodat mijn website toegankelijk is voor mensen met een screenreader. Dit is mij allemaal gelukt, en ik hoop dat ik dit van dus voldoende kan gaan afronden. 
+
+
 </details>
 
 
