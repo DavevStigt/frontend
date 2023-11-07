@@ -47,6 +47,7 @@ header nav ul li:nth-child(1) {
 	width: 1.45em;
 	margin-left: 1em;
 	margin-right: 8em;
+
 }
 
 header section {
@@ -389,7 +390,7 @@ main section:nth-of-type(9) h3:nth-child(7) {
 	margin-right: 13em;
 }
 
-main section:nth-of-type(2), main section:nth-of-type(6), main section:nth-of-type(9) {
+ main section:nth-of-type(6), main section:nth-of-type(9) {
 	display: none;
 }
 
@@ -545,7 +546,7 @@ footer section:nth-of-type(5) {
 	margin-bottom: var(--margin-onder-afbeelding);
 }
 
-.pagina2 section:nth-of-type(1) {
+.pagina2 section:nth-of-type(1), .pagina2 section:nth-of-type(2) {
 	display: flex;
 }
 
@@ -714,7 +715,9 @@ footer section:nth-of-type(5) {
 }
 
 a {
-	text-decoration: solid underline black 0.11em;
+	text-decoration: none;
+	color: #111;
+	
 
 }
 
@@ -934,7 +937,7 @@ a {
 	}
 
 	.pagina2 section:nth-of-type(2) h2:nth-child(1) {
-		margin-right: 1em;
+		margin-right: 4em;
 	}
 
 	.pagina2 section:nth-of-type(2) h2:nth-child(2) {
@@ -1429,7 +1432,7 @@ a {
 
 /* Stijl voor de titels in de lijstitems */
 .herkansing li h3 {
-	margin-top: 10px;
+	margin-top: 1em;
 	margin-left: 0;
 	margin-right: 0;
 	font-size: 1.1em;
@@ -1441,7 +1444,19 @@ a {
 
 .preherkansing {
 	display: block;
-	overflow-x: hidden;
+	
+}
+
+.hide {
+	display: none;
+}
+
+button:hover{
+	background-color: rgb(99, 99, 99);
+}
+
+footer a{
+color: #F5F5F5;
 }
 
 @media (min-width: 450px) {
